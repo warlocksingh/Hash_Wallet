@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "HashWallet",
+    "slug": "hashwallet",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "jsEngine": "hermes",
+    "sdkVersion": "50.0.0",
+    "android": {
+      "package": "com.hashwallet.app",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "ios": {
+      "bundleIdentifier": "com.hashwallet.app",
+      "buildNumber": "1.0.0"
+    }
+  }
+}
